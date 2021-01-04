@@ -4,19 +4,19 @@
 Petunjuk : 
 1. git clone pada terminal anda : 
 
-                           git clone https://github.com/ikhsansyahrizal/195410006_ResponsiCloud.git
+                           git clone https://github.com/fauzi195410033/jinganteng123
                            
 2. pull image dari dockerhub ke terminal anda : 
 
-                            docker pull ikhsansyahrizal/195410006responsi
+                            docker pull fauzi195410033/jinganteng123
 
 
 3. masuk kedalam direktori file yang diambil dari github : 
 
-                            cd 195410006_ResponsiCloud
+                            cd jinganteng123
 
 
-4. setelah masuk kedalam direktori 195410006_ResponsiCloud/ jalankan perintah berikut :
+4. setelah masuk kedalam direktori jinganteng123 jalankan perintah berikut :
 
                             docker-compose up -d
 
